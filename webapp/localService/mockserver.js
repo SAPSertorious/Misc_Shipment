@@ -6,7 +6,11 @@ sap.ui.define([
 ], function (MockServer, Log, UriParameters, XMLHelper) {
 	"use strict";
 	var oMockServer,
+<<<<<<< HEAD
 		_sAppModulePath = "sap/gts/fiori/misccshipments/",
+=======
+		_sAppModulePath = "miscShip/miscship/",
+>>>>>>> refs/heads/master
 		_sJsonFilesModulePath = _sAppModulePath + "localService/mockdata";
 
 	return {
